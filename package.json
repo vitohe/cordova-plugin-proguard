@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-proguard",
+  "name": "cordova-plugin-proguard-mod",
   "version": "1.0.0",
   "description": "Cordova plugin for ProGuard",
   "repository": {
@@ -18,9 +18,6 @@
     "plugin"
   ],
   "author": {
-    "name": "Aleksandr Filatov",
-    "email": "greybax@gmail.com",
-    "url": "https://alfilatov.com"
   },
   "license": "MIT",
   "bugs": {
