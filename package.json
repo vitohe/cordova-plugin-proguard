@@ -4,7 +4,7 @@
   "description": "Cordova plugin for ProGuard",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greybax/cordova-plugin-proguard.git"
+    "url": "git+https://github.com/vitohe/cordova-plugin-proguard.git"
   },
   "keywords": [
     "proguard",
