@@ -69,6 +69,8 @@
 -keep class me.leolin.shortcutbadger.ShortcutBadger { ** extraNotification; }
 -keep class me.leolin.shortcutbadger.impl.XiaomiHomeBadger { ** messageCount; }
 -keep class me.leolin.shortcutbadger.impl.XiaomiHomeBadger { ** extraNotification; }
+-keep class com.duokazhushou.app.BuildConfig { *; }
+
 
 -dontnote org.apache.harmony.xnet.provider.jsse.NativeCrypto
 -dontnote sun.misc.Unsafe
